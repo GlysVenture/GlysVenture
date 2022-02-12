@@ -1,4 +1,4 @@
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tkondrac)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tkondrac)](https://profile.intra.42.fr/users/tkondrac)
 
 <b> Skills : </b>
 
