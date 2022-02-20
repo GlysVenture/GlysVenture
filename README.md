@@ -1,21 +1,18 @@
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tkondrac)](https://www.42lausanne.ch/)
 
-<b> Skills : </b>
+### Skills :
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QzwvdGl0bGU+PHBhdGggZD0iTTE2LjU5MjEgOS4xOTYycy0uMzU0LTMuMjk4LTMuNjI3LTMuMzljLTMuMjc0MS0uMDktNC45NTUyIDIuNDc0LTQuOTU1MiA2LjE0IDAgMy42NjUxIDEuODU4IDYuNTk3MiA1LjA0NTEgNi41OTcyIDMuMTg0IDAgMy41MzgxLTMuNjY1IDMuNTM4MS0zLjY2NWw2LjEwNDEuMzY1cy4zNiAzLjMxLTIuMTk2IDUuODM2Yy0yLjU1MiAyLjUyNDEtNS42OTAxIDIuOTM3MS03Ljg3NjIgMi45MjAxLTIuMTktLjAxNy01LjIyNjEuMDM0LTguMTYwMi0yLjk3LTIuOTM4LTMuMDEwMS0zLjQzNi01LjkzMDItMy40MzYtOC44MDAyIDAtMi44NzAxLjU1Ni02LjY3MDIgNC4wNDctOS41NTAyQzcuNDQ0LjcyIDkuODQ5IDAgMTIuMjU0IDBjMTAuMDQyMiAwIDEwLjcxNzIgOS4yNjAyIDEwLjcxNzIgOS4yNjAyeiIvPjwvc3ZnPg==)
 ![](https://img.shields.io/badge/Code-Make-informational)
 ![](https://img.shields.io/badge/Code-Rust-informational)
-<!--
-**GlysVenture/GlysVenture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mostly used languages on (GITHUB):
+<div>
+  <a href="https://github-readme-stats.vercel.app">
+        <img width="30%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GlysVenture&theme=nord_dark"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="30%" alt="Streak Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GlysVenture&theme=nord_dark"/>
+    </a>  
+    </a>
+</div>
