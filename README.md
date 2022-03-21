@@ -1,4 +1,5 @@
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tkondrac)](https://www.42lausanne.ch/)
+## Hi, I'm Glys
+an up and coming programmer ready to challenge the greatest. I like C, Rust, computer graphics and making neat, functional, solid code.
 
 ### Skills :
 
@@ -6,7 +7,10 @@
 ![](https://img.shields.io/badge/Code-Make-informational)
 ![](https://img.shields.io/badge/Code-Rust-informational)
 
-### Mostly used languages on (GITHUB):
+### Github Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GlysVenture&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 <div>
   <a href="https://github-readme-stats.vercel.app">
         <img width="30%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GlysVenture&theme=nord_dark"/>
