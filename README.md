@@ -9,6 +9,8 @@ an up and coming programmer ready to challenge the greatest. I like C, Rust, com
 
 ### Github Stats:
 
+![](https://img.shields.io/github/followers/GlysVenture?style=social)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GlysVenture&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 <div>
