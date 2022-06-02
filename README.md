@@ -9,8 +9,6 @@ an up and coming programmer ready to challenge the greatest. I like C, Rust, com
 
 ### Github Stats:
 
-### [![tkondrac's 42 stats](https://badge42.vercel.app/api/v2/cl1wnohlk000609jzgv793xhy/stats?cursusId=21&coalitionId=166)](https://github.com/JaeSeoKim/badge42)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GlysVenture&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 <div>
