@@ -1,5 +1,6 @@
 ## Hi, I'm Glys
-an up and coming programmer ready to challenge the greatest. I like C, Rust, computer graphics and making neat, functional, solid code.
+
+I do code. also security somehow. this is not up to date.
 
 ### Skills :
 
